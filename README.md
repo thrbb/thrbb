@@ -4,7 +4,7 @@ I'm [Thrbb](https://github.com/thrbb), an experienced Project Manager and UX/UI 
 
 - 🌱 I’m currently learning about Data Science
 - 🦄 I’m looking to collaborate on Open Source Projects
-- 🌎 Alaways looking for solutions to impact the world positively 
+- 🌎 Always looking for solutions to impact the world positively 
 - 💬 Ask me about Project and Product Management
 - 📫 Reach me out on [LinkedIn](https://www.linkedin.com/in/thaise-rubbo/)
 - 🌈 Pronouns: She/her

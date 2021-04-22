@@ -49,7 +49,7 @@ I'm [Thrbb](https://github.com/thrbb), an experienced Project Manager and UX/UI 
    
 <p align="center">
   Show ❤️ by <b>starring</b> repositories you find good! 
-  <br />Also, <b>fork</b> this repository if you wish to give this profile template a try!
+  <br />Also, <a href="https://github.com/thrbb/thrbb/fork"><b>fork</b></a> this repository if you wish to give this profile template a try!
 </p>
 
 <p align="center">

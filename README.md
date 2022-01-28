@@ -1,9 +1,8 @@
 <h2> Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2> 
 
-I'm [Thrbb](https://github.com/thrbb), an experienced Project Manager and UX/UI Designer with Information Architecture and Front-end development skills.
+I'm [Thrbb](https://github.com/thrbb), an experienced Product Owner and UX/UI Designer with Information Architecture and Front-end development skills.
 
-- 🌱 I’m currently learning about Data Science
-- 🦄 I’m looking to collaborate on Open Source Projects
+- 🌱 I’m currently learning about PHP
 - 🌎 Always looking for solutions to impact the world positively 
 - 💬 Ask me about Project and Product Management
 - 📫 Reach me out on [LinkedIn](https://www.linkedin.com/in/thaise-rubbo/)

@@ -38,7 +38,6 @@ I'm [Thrbb](https://github.com/thrbb), an experienced Product Owner and UX/UI De
 
 <p align="center"> 
   <br />
-    <img src="https://github-readme-stats.vercel.app/api?username=thrbb&show_icons=true&include_all_commits&count_private=true&hide=contribs&line_height=30&custom_title=GitHub%20Stats&theme=dracula">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=thrbb&theme=dracula">
 </p>
 

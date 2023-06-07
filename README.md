@@ -18,8 +18,6 @@ I am a dynamic and results-driven professional with over 8 years of experience l
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=thrbb&theme=dracula">
 </p>
 
-</p>
-
 ---
    
 <p align="center">
